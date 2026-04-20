@@ -24,5 +24,5 @@ int main(){
     elektronik.kategori = "Elektronik";
     elektronik.tanggalProduksi = "2026-12-11";
 
-
+    elektronik.printData();
 }
