@@ -7,3 +7,13 @@ class Barang{
         int jumlah;
         string kategori;
         string tanggalProduksi;
+
+        void printData(){
+            cout << "Nama : " << nama << endl;
+            cout << "Jumlah : " << jumlah << endl;
+            cout << "Kategori : " << kategori << endl;
+            cout << "Tanggal Produksi : " << tanggalProduksi << endl;
+            cout << endl;
+        }
+};
+
