@@ -15,5 +15,6 @@ class Mahasiswa{
 }; //batas class
 
 int main(){
-    
+    Mahasiswa mhs;
+
 }
