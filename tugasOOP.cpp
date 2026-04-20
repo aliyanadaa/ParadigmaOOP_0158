@@ -19,5 +19,10 @@ class Barang{
 
 int main(){
     Barang elektronik;
+    elektronik.nama = "Kulkas";
+    elektronik.jumlah = 45;
+    elektronik.kategori = "Elektronik";
+    elektronik.tanggalProduksi = "2026-12-11";
+
 
 }
