@@ -18,5 +18,6 @@ class Barang{
 };
 
 int main(){
-    
+    Barang elektronik;
+
 }
