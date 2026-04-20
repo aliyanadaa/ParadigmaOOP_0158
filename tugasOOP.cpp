@@ -17,3 +17,6 @@ class Barang{
         }
 };
 
+int main(){
+    
+}
